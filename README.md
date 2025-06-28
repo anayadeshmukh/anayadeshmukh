@@ -46,6 +46,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnayaDeshmukh&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnayaDeshmukh&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnayaDeshmukh&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnayaDeshmukh&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 ## 👁️ Profile Views
 <p align="center">
