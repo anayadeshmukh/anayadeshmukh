@@ -35,14 +35,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnayaDeshmukh&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnayaDeshmukh&theme=flat&no-frame=true&column=7" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnayaDeshmukh&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnayaDeshmukh&show_icons=true&theme=flat" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnayaDeshmukh&theme=radical" />
 </p>
 
