@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Anaya </h1>
-<h3 align="center">Aspiring Data Analyst | Passionate about uncovering stories hidden in data 📊</h3>
+<h3 align="center">Aspiring Data Analyst | Passionate about uncovering stories hidden in data 📈</h3>
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/deshmukhanaya7" target="_blank">
