@@ -47,13 +47,3 @@
 </p>
 
 ---
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnayaDeshmukh&label=Visitors&style=flat&color=blue" />
-
-  <img src="https://komarev.com/ghpvc/?username=AnayaDeshmukh&label=Visitors&style=flat&color=blue" alt="Visitors" />
-  
-</p>
-
-
----
