@@ -15,7 +15,7 @@
 ## 🔍 About Me
 - 🎓 B.Tech graduate from MIT-ADT University  
 - 🌱 Currently learning: MySQL, Excel, Power BI, Tableau, Python, and data storytelling  
-- 📊 Building real-world projects to improve data analysis skills  
+- 🚀 Building real-world projects to improve data analysis skills  
 - 🤝 Open to: data-driven collaborations, internships, and freelance projects  
 - 📫 Reach me: deshmukhanaya7@gmail.com
 - ⚡ Fun fact:  I can turn daily chaos into clean dashboards — even my shopping list has filters!
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnayaDeshmukh&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnayaDeshmukh&theme=tokyonight" />
