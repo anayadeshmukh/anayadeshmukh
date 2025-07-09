@@ -33,15 +33,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-  <p align="center">
-    <a href="https://github.com/AnayaDeshmukh">
-      <img src="https://github-profile-trophy.vercel.app/?username=AnayaDeshmukh&theme=flat&no-frame=true&margin-w=5&column=9" alt="Anaya's GitHub Trophies" />
-    </a>
-  </p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/AnayaDeshmukh">
